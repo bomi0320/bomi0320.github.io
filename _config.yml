@@ -1,4 +1,4 @@
-title: 느루
+title: miya
 subtitle: 2021.11.19 ~
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -16,22 +16,22 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    #- text: Shop
+    #  url : /shop
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: piglet.png
 author: Bomi Kwon
-author_bio: 안녕하세요 :D
+author_bio: 2021.11.19 ~
 author_email: "kwonbomi@kookmin.ac.kr"
 author_location: Korea
 author_website_url: "https://github.com/bomi0320/"
-typewrite-text: 안녕하세요~
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+typewrite-text: 안녕하세요 :D
+hero_cover_img: JohnMayer.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -40,22 +40,22 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: true
+              - college_logo: null
+                college_name: null
+                college_url: null
+                college_degree: null
+                description: null
+                visibility: false
 
 # Projects
 author_project_details:
