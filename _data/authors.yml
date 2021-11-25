@@ -46,4 +46,15 @@ xplor4r:
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
+        
+bomikwon:
+   name: Bomi Kwon
+   username: bomikwon
+   site: https://bomikwon.com
+   avatar: piglet.png
+   bio: "Hi, I'm Bomi Kwon"
+   email: kwonbomi@kookmin.ac.kr
+   social:
+      - title: "github"
+        url: "https://github.com/bomi0320/bomi0320.github.io"
 
