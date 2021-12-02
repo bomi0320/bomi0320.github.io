@@ -74,7 +74,7 @@ bomikwon:
 
 ### 댓글 기능 추가
 
-	1. _config.yml 파일에 disqus short name을 추가하고
+1. _config.yml 파일에 disqus short name을 추가하고
 
 ```yaml
 disqus_shortname: bomiblog-1
