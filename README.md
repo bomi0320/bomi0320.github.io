@@ -4,19 +4,19 @@
 
 [github theme site](http://jekyllthemes.org/)
 
-![pic1](C:\github\bomi0320.github.io\assets\img\posts\build\1.PNG)
+![pic1](/assets/img/readme1.PNG)
 
 
 
 2. Homepage 버튼을 눌러 github 페이지로 온 다음, fork를 누른다.
 
-![pic2](C:\github\bomi0320.github.io\assets\img\posts\build\2.PNG)
+![pic2](/assets/img/readme2.PNG)
 
 
 
 3. 내 repository로 온 뒤 settings에서 repository name을 바꿔준다.
 
-![pic3](C:\github\bomi0320.github.io\assets\img\posts\build\3.PNG)
+![pic3](/assets/img/readme3.PNG)
 
 
 
